@@ -1,0 +1,10 @@
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\bin\Debug\testofficeLib.exe.config
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\bin\Debug\testofficeLib.exe
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\bin\Debug\testofficeLib.pdb
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\bin\Debug\officeLib.dll
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\officeLibSample.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\officeLibSample.Form1.resources
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\testofficeLib.Properties.Resources.resources
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\officeLibSample.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\testofficeLib.exe
+C:\Users\Chris\Desktop\testofficeLib\testofficeLib\obj\Debug\testofficeLib.pdb
